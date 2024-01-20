@@ -1,0 +1,10 @@
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\bin\Debug\Crest2Bitmap.exe.config
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\bin\Debug\Crest2Bitmap.exe
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\bin\Debug\Crest2Bitmap.pdb
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.csproj.AssemblyReference.cache
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.Properties.Resources.resources
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.csproj.GenerateResource.cache
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.csproj.CoreCompileInputs.cache
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.exe
+C:\Users\ENGEL\Documents\Github\Crest2Bitmap\Crest2Bitmap\obj\Debug\Crest2Bitmap.pdb
